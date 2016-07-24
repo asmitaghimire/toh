@@ -1,3 +1,9 @@
+/*
+Tower of Hanoi
+Asmita Ghimire
+referense- data structure book
+*/
+
 #include<stdio.h>
 
 void towers (int, char, char, char);
